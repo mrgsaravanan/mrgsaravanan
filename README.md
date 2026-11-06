@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,100:3B82F6&height=160&section=header&text=Saravanan%20Gopalakrishnan&fontSize=38&fontColor=ffffff" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=620&lines=Senior+Data+Engineer;16%2B+years+running+production+data+pipelines;Python+%C2%B7+SQL+%C2%B7+Snowflake+%C2%B7+ETL" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=620&lines=Senior+Data+Engineer;18%2B+years+running+production+data+pipelines;Python+%C2%B7+SQL+%C2%B7+Snowflake+%C2%B7+ETL" alt="typing" />
 
 </div>
 
