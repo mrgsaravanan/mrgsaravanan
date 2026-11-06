@@ -29,7 +29,7 @@ Senior Data Engineer with 18+ years building and running production data pipelin
 
 **Cloud & DevOps** &nbsp;
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D7?style=flat&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 **Reporting** &nbsp;
