@@ -38,11 +38,13 @@ Senior Data Engineer with 18+ years building and running production data pipelin
 
 ### What I do
 
-- 🔧 **Run production pipelines** across staging, ODS, and mart layers, and keep them running when they break
-- 🔍 **Quality and traceability:** exception and error-handling frameworks built on data governance principles
-- 🏛️ **ERP / HR / finance integration:** VA Cardinal, Oracle HCM
-- 📊 **Reporting:** Power BI paginated reports
-- 📝 **Handoff:** documentation and turnover so client teams can operate what I build
+- 🔧 **Production pipelines:** I design, run, and support ETL across staging, ODS, and mart layers for 20+ applications, and I get them back up fast when they break
+- 🔍 **Data quality and traceability:** exception and error-handling frameworks built on data governance principles, so bad records are caught early and every figure can be traced to its source (anomalies down 75%)
+- 🏛️ **ERP / HR / finance integration:** I bring order to data from systems I did not design, including VA Cardinal and Oracle HCM
+- ❄️ **Warehousing and performance:** Snowflake and Oracle loads, plus SQL / PL-SQL tuning
+- 📊 **Reporting:** Power BI paginated reports that put trusted data in front of business users
+- 🤝 **Agile delivery:** turning business requirements into shipped enhancements, with code promotion through Azure DevOps
+- 📝 **Handoff:** documentation and turnover so client teams can operate and extend what I build
 
 ### Featured Builds
 
