@@ -6,7 +6,7 @@
 
 </div>
 
-Senior Data Engineer with 16+ years building and running production data pipelines for government, healthcare, banking, retail, and pharmacy. I support 20+ data integration applications for the **Virginia Department of Transportation**, integrating ERP, HR, and financial systems like **VA Cardinal** and **Oracle HCM**. I care about data that is complete, traceable, and trusted.
+Senior Data Engineer with 18+ years building and running production data pipelines for government, healthcare, banking, retail, and pharmacy. I support 20+ data integration applications for the **Virginia Department of Transportation**, integrating ERP, HR, and financial systems like **VA Cardinal** and **Oracle HCM**. I care about data that is complete, traceable, and trusted.
 
 📍 Mechanicsville, VA, USA
 
@@ -29,7 +29,7 @@ Senior Data Engineer with 16+ years building and running production data pipelin
 
 **Cloud & DevOps** &nbsp;
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 **Reporting** &nbsp;
