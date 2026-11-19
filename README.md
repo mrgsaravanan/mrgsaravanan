@@ -12,31 +12,58 @@ Senior Data Engineer with 18+ years building and running production data pipelin
 
 ### Stack
 
-**Languages** &nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+**Programming & Query Languages** &nbsp;
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-**Data & ETL** &nbsp;
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+**Data Engineering** &nbsp;
+ETL/ELT Development · Data Pipelines · Data Integration · Data Warehousing (Staging, ODS, Data Mart) · Data Modeling · Data Validation · Data Quality · Exception & Error Handling · Data Governance · Performance Tuning
+
+**ETL & Orchestration** &nbsp;
 ![DataStage](https://img.shields.io/badge/IBM%20DataStage-054ADA?style=flat&logo=ibm&logoColor=white)
 ![Informatica](https://img.shields.io/badge/Informatica-FF4D00?style=flat&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Batch Scheduling](https://img.shields.io/badge/Batch%20Job%20Scheduling-555555?style=flat)
 
-**Cloud** &nbsp;
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+**Big Data** &nbsp;
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat&logo=apachehive&logoColor=black)
+![Pig](https://img.shields.io/badge/Pig-555555?style=flat)
+![Sqoop](https://img.shields.io/badge/Sqoop-555555?style=flat)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+
+**Cloud Platforms** &nbsp;
+![AWS](https://img.shields.io/badge/AWS-Lambda%20%7C%20Cloud%20Storage-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D7?style=flat&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-**Reporting** &nbsp;
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+**Databases** &nbsp;
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Teradata](https://img.shields.io/badge/Teradata-F37440?style=flat&logo=teradata&logoColor=white)
+
+**DevOps & Delivery** &nbsp;
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile%2FScrum-555555?style=flat)
+![SDLC](https://img.shields.io/badge/SDLC-555555?style=flat)
+![Config Mgmt](https://img.shields.io/badge/Configuration%20Management-555555?style=flat)
+<br/>Code Promotion · Release Management
+
+**Reporting & Analytics** &nbsp;
+![Power BI](https://img.shields.io/badge/Power%20BI-Paginated%20Reports-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Cognos](https://img.shields.io/badge/IBM%20Cognos-054ADA?style=flat&logo=ibm&logoColor=white)
+
+**Operating Systems** &nbsp;
+![Unix](https://img.shields.io/badge/Unix-555555?style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ### What I do
 
