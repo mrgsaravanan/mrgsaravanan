@@ -89,7 +89,7 @@ ETL/ELT Development · Data Pipelines · Data Integration · Data Warehousing (S
 - **Senior Associate**, Cognizant Technology Solutions, 2009 – 2017
 - **Programmer**, Medi Infotech, 2008 – 2009
 - 🎓 MBA, Anna University · B.E., Madras University
-- 📜 AWS Certified Developer · Oracle SQL & PL/SQL Certified Associate · Postgraduate Program in AI & ML · Generative AI for Business with Azure OpenAI
+- 📜 AWS Certified Developer · Oracle SQL & PL/SQL Certified Associate · Microsoft Azure Data Fundamentals · Postgraduate Program in AI & ML · Generative AI for Business with Azure OpenAI
 
 ### Signal
 
